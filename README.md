@@ -1,0 +1,1 @@
+# CNN-vs-ViT-in-Low-Data-Regimes
